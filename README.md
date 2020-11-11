@@ -9,12 +9,12 @@ The process of learning begins with data, such as, direct experience, or instruc
 ![alt text](https://github.com/suchit-insaid/Python-Machine-Learning-Projects/blob/main/image/mlflow.png)
 
 ## Repository Overview
-======
+
 This repository is about different Machine Learning algorithm approaches as per the industry practices.
 
 ## Table of Contents
-======
-* Breast Cancer Survival [17]
+
+* Breast Cancer Survival[24]
 * Avacado price Prediction
 * Image Color Recognision
 * Spam/Ham Messages Prediction
