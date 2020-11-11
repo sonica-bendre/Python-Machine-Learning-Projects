@@ -14,7 +14,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Table of Contents
 
-* [Breast Cancer Survival](Breast Cancer Survival.md)
+* [Breast Cancer Survival](#Breast Cancer Survival)
 * Avacado price Prediction
 * Image Color Recognision
 * Spam/Ham Messages Prediction
