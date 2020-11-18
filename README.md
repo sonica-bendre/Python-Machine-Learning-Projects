@@ -59,7 +59,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Ghouls Predictions
 
-![alt text](https://github.com/suchit-insaid/Python-Machine-Learning-Projects/blob/main/image/spam.png
+![alt text](https://github.com/suchit-insaid/Python-Machine-Learning-Projects/blob/main/image/spam.png)
 
 * This is a fun kaggle project which predicts the ghouls/ghost
 * In this project I have taken a dataset which predicts the ghouls/ghosts based on different features
