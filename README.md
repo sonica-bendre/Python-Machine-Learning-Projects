@@ -2,7 +2,8 @@
 ![alt text](https://github.com/suchit-insaid/Python-Machine-Learning-Projects/blob/main/image/banner.png)
 Machine Learning is a latest buzzword floating around. It deserves to, as it is one of the most interesting subfield of Computer Science.
 
-**What does Machine Learning really means?**//
+**What does Machine Learning really means?**
+
 Machine Learning is an application of artificial intelligence(AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
 
 **Machine Learning focuses on the development of computer programs** that can access data and use it to learn for themsleves.
@@ -16,8 +17,8 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Table of Contents
 
-* [Breast Cancer Survival](#Breast Cancer Survival)
-* Avacado price Prediction
+* [Breast Cancer Survival](#-Breast-Cancer-Survival)
+* [Avacado price Prediction](#-Avacado-Price-Prediction)
 * Image Color Recognision
 * Spam/Ham Messages Prediction
 * Gouls Prediction
@@ -44,7 +45,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Image Color Recognision
 
-![alt text](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/image_1.jpg)
+![alt text](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/image_1%20(2).jpg)
 
 * As I was reading through image processing I came across this very interesting topic of color recognision
 * From a image which has color range RGB we find that there is one color which is dominent
@@ -61,7 +62,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Ghouls Predictions
 
-![alt text](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/st%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.u3.jpg)
+![alt text](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/st%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.u3%20(2).jpg)
 
 * This is a fun kaggle project which predicts the ghouls/ghost
 * In this project I have taken a dataset which predicts the ghouls/ghosts based on different features
