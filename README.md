@@ -17,12 +17,12 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Table of Contents
 
-* [Breast Cancer Survival](#-Breast-Cancer-Survival)
-* [Avacado price Prediction](#-Avacado-Price-Prediction)
-* [Image Color Recognision](#-Image-Color-Recognision)
-* [Spam/Ham Messages Prediction](#-Spam/Ham-Messages-Prediction)
-* [Gouls Prediction](#-Ghouls-Predictions)
-* [Property Inspection Prediction](#-Property-Inspection-Prediction)
+* [Breast Cancer Survival](#-breast-cancer-survival)
+* [Avacado price Prediction](#-avacado-price-prediction)
+* [Image Color Recognision](#-image-color-recognision)
+* [Spam/Ham Messages Prediction](#-spam/ham-messages-prediction)
+* [Gouls Prediction](#-ghouls-predictions)
+* [Property Inspection Prediction](#-property-inspection-prediction)
 
 ## Breast Cancer Survival
 
@@ -36,7 +36,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Avacado Price Prediction
 
-<img src="https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/avocados%20(2).jpg" alt="left face" align="left" width="100" height="100"> 
+![alt text](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/avocados%20(2).jpg)
 
 * Avacado is considered as one of the healthiest fruits available
 * From past few years we see a increase in the consumption of avacado fruits as our everyday meals part
