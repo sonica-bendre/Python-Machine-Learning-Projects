@@ -22,7 +22,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 * [Image Color Recognision](#-Image-Color-Recognision)
 * [Spam/Ham Messages Prediction](#-Spam/Ham-Messages-Prediction)
 * [Gouls Prediction](#-Ghouls-Predictions)
-* [Property Inspection Prediction - Property Inspection Prediction](#-Property-Inspection-Prediction)
+* [Property Inspection Prediction](#-Property-Inspection-Prediction)
 
 ## Breast Cancer Survival
 
@@ -37,6 +37,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 ## Avacado Price Prediction
 
 ![alt text](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/avocados%20(2).jpg)
+<img src="https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/avocados%20(2).jpg" alt="left face" align="left" width="42" height="42"> 
 
 * Avacado is considered as one of the healthiest fruits available
 * From past few years we see a increase in the consumption of avacado fruits as our everyday meals part
