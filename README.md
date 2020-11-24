@@ -23,7 +23,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Breast Cancer Survival
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gvec.org%2Fbreast-cancer-awareness-month-2019%2F&psig=AOvVaw0WhKR63t6stJlJdWzRVvjC&ust=1605187060299000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC17IHK-uwCFQAAAAAdAAAAABAD)
+![alt text](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/Breast-Cancer-Awareness-Month-2019-1080x675.jpg)
 
 * Breast Cancer is one of the major cancer decease which occurs in women
 * It can vary widely when comes to age affected but its most common between the age group 40-65 years
