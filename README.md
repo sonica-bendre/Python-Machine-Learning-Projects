@@ -17,12 +17,12 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Table of Contents
 
-* [Breast Cancer Survival](#-breast-cancer-survival)
-* [Avacado price Prediction](#-avacado-price-prediction)
+* [Breast Cancer Survival](#breast-cancer-survival)
+* [Avacado price Prediction](#avacado-price-prediction)
 * [Image Color Recognision](#-image-color-recognision)
-* [Spam/Ham Messages Prediction](#-spam/ham-messages-prediction)
-* [Gouls Prediction](#-ghouls-predictions)
-* [Property Inspection Prediction](#-property-inspection-prediction)
+* [Spam/Ham Messages Prediction](#spam/ham-messages-prediction)
+* [Gouls Prediction](#ghouls-predictions)
+* [Property Inspection Prediction](#property-inspection-prediction)
 
 ## Breast Cancer Survival
 
