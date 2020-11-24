@@ -19,10 +19,10 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 * [Breast Cancer Survival](#-Breast-Cancer-Survival)
 * [Avacado price Prediction](#-Avacado-Price-Prediction)
-* Image Color Recognision(#-Image-Color-Recognision)
-* Spam/Ham Messages Prediction(#-Spam/Ham-Messages-Prediction)
-* Gouls Prediction(#-Ghouls-Predictions)
-* Property Inspection Prediction(#-Property-Inspection-Prediction)
+* [Image Color Recognision](#-Image-Color-Recognision)
+* [Spam/Ham Messages Prediction](#-Spam/Ham-Messages-Prediction)
+* [Gouls Prediction](#-Ghouls-Predictions)
+* [Property Inspection Prediction](#-Property-Inspection-Prediction)
 
 ## Breast Cancer Survival
 
