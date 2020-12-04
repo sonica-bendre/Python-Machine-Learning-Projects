@@ -32,7 +32,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 * It can vary widely when comes to age affected but its most common between the age group 40-65 years
 * Around 2 million women are prone to this decease in a year.
 * From the given dataset we will be studying breast cancer survived patients after being operated for the years 1960-1975
-* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/BreastCancer%20Survical)
+* [Link for the Jupyter notebook](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/BreastCancer%20Survical)
 
 ## Avacado Price Prediction
 
@@ -41,7 +41,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 * Avacado is considered as one of the healthiest fruits available
 * From past few years we see a increase in the consumption of avacado fruits as our everyday meals part
 * In this dataset we are going to predict the price of avacado fruits based on the sales from years 2014-2018
-* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/AvacadoPrice%20Prediction)
+* [Link for the Jupyter notebook](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/AvacadoPrice%20Prediction)
 
 ## Image Color Recognision
 
@@ -50,7 +50,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 * As I was reading through image processing I came across this very interesting topic of color recognision
 * From a image which has color range RGB we find that there is one color which is dominent
 * In this project I have taken a set of 5 images and written code which gives output as images which has that particular dominent color
-* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/ColorRecognition)
+* [Link for the Jupyter notebook](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/ColorRecognition)
 
 ## Spam/Ham Messages Prediction
 
@@ -58,7 +58,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 * This is a beginner's example of document classification task which involves classifying an email as spam or not spam mail.
 * Spam box in your Gmail account is the best example of this.
-* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/Spam%20Ham%20Messages%20Prediction)
+* [Link for the Jupyter notebook](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/Spam%20Ham%20Messages%20Prediction)
 
 ## Ghouls Predictions
 
@@ -66,7 +66,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 * This is a fun kaggle project which predicts the ghouls/ghost
 * In this project I have taken a dataset which predicts the ghouls/ghosts based on different features
-* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/GhoulsPrediction)
+* [Link for the Jupyter notebook](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/GhoulsPrediction)
 
 ## Property Inspection Prediction
 
@@ -74,6 +74,6 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 * This is a beginners project on the property inspection based on the hazards
 * In this dataset I have done property inspection based on different hazards
-* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/PropertyInspection)
+* [Link for the Jupyter notebook](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/PropertyInspection)
 
 
