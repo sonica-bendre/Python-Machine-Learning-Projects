@@ -1,5 +1,5 @@
 # MachineLearningUsingPython
-![alt text](https://github.com/suchit-insaid/Python-Machine-Learning-Projects/blob/main/image/banner.png)
+![alt text](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/banner.png)
 Machine Learning is a latest buzzword floating around. It deserves to, as it is one of the most interesting subfield of Computer Science.
 
 **What does Machine Learning really means?**
@@ -9,7 +9,7 @@ Machine Learning is an application of artificial intelligence(AI) that provides 
 **Machine Learning focuses on the development of computer programs** that can access data and use it to learn for themsleves.
 The process of learning begins with data, such as, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. **The primary aim is to allow the computers learn automatically** without human intervention or assistance and adjust actions accordingly.
 
-![alt text](https://github.com/suchit-insaid/Python-Machine-Learning-Projects/blob/main/image/mlflow.png)
+![alt text](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/mlflow.png)
 
 ## Repository Overview
 
@@ -32,7 +32,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 * It can vary widely when comes to age affected but its most common between the age group 40-65 years
 * Around 2 million women are prone to this decease in a year.
 * From the given dataset we will be studying breast cancer survived patients after being operated for the years 1960-1975
-* [Link for the Jupyter notebook]
+* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/BreastCancer%20Survical)
 
 ## Avacado Price Prediction
 
@@ -41,7 +41,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 * Avacado is considered as one of the healthiest fruits available
 * From past few years we see a increase in the consumption of avacado fruits as our everyday meals part
 * In this dataset we are going to predict the price of avacado fruits based on the sales from years 2014-2018
-* [Link for the Jupyter notebook]
+* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/AvacadoPrice%20Prediction)
 
 ## Image Color Recognision
 
@@ -50,15 +50,15 @@ This repository is about different Machine Learning algorithm approaches as per 
 * As I was reading through image processing I came across this very interesting topic of color recognision
 * From a image which has color range RGB we find that there is one color which is dominent
 * In this project I have taken a set of 5 images and written code which gives output as images which has that particular dominent color
-* [Link for the Jupyter notebook]
+* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/ColorRecognition)
 
 ## Spam/Ham Messages Prediction
 
-![alt text](https://github.com/suchit-insaid/Python-Machine-Learning-Projects/blob/main/image/spam.png)
+![alt text](https://github.com/sonica-bendre/Python-Machine-Learning-Projects/blob/main/Images/spam.png)
 
 * This is a beginner's example of document classification task which involves classifying an email as spam or not spam mail.
 * Spam box in your Gmail account is the best example of this.
-* [Link for the Jupyter notebook]
+* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/Spam%20Ham%20Messages%20Prediction)
 
 ## Ghouls Predictions
 
@@ -66,7 +66,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 * This is a fun kaggle project which predicts the ghouls/ghost
 * In this project I have taken a dataset which predicts the ghouls/ghosts based on different features
-* [Link for the Jupyter notebook]
+* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/GhoulsPrediction)
 
 ## Property Inspection Prediction
 
@@ -74,6 +74,6 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 * This is a beginners project on the property inspection based on the hazards
 * In this dataset I have done property inspection based on different hazards
-* [Link for the Jupyter notebook]
+* [Link for the Jupyter notebook](#https://github.com/sonica-bendre/Python-Machine-Learning-Projects/tree/main/PropertyInspection)
 
 
